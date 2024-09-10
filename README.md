@@ -28,8 +28,8 @@ The dataset used is sourced from [Kaggle's TMDB Movie Metadata](https://www.kagg
 
 If you have any questions, suggestions, or issues, feel free to reach out to me. We value your feedback and are here to help.
 
-- Project Maintainer: **Kashif Ali**
-- Email: kashiiitech@gmail.com
+- Project Maintainer: **Minhal Manjee**
+- Email: minhal.manjee@gmail.com
 ---
 
 **You can also open an issue in this repository if you encounter any problems or want to request a new feature.**
